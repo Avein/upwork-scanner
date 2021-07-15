@@ -1,0 +1,9 @@
+selenium==3.141.0
+beautifulsoup4==4.9.3
+pyotp==2.6.0
+loguru==0.5.3
+undetected-chromedriver==3.0.2
+tenacity==8.0.1
+requests==2.26.0
+pdfminer.six==20201018
+Selenium-Screenshot==1.7.0
